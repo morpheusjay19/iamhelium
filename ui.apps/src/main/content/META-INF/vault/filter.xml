@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/iamhelium/clientlibs"/>
+    <filter root="/apps/iamhelium/components"/>
+    <filter root="/apps/iamhelium/i18n"/>
+</workspaceFilter>
